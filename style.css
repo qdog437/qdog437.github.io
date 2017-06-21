@@ -3,4 +3,7 @@ body {
 	background-color: red
 }
 
-header {}
+h1 {
+	font-family: serif;
+	color: blue;
+}
