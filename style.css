@@ -1,19 +1,23 @@
 body {
 	font-family: sans-serif; 
-	background-color: gray
+	background-color: gray;
 }
 
 h1 {
 	font-family: serif;
-	color: white
-}
+	color: black;
 
-h1{
-	border: 5px solid black
+	border: 5px dotted red;
 	padding:20px;
-	margin-left: 40px
+	margin-left: 40px;
 
 }
 #face{
-	margin-left: 30px
+	position: fixed;
+	top: 20px;
+	left: 10px; 
+}
+
+#dematha{
+	margin-left: 200px;
 }
