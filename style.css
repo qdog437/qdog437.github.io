@@ -1,9 +1,19 @@
 body {
 	font-family: sans-serif; 
-	background-color: red
+	background-color: gray
 }
 
 h1 {
 	font-family: serif;
-	color: blue;
+	color: white
+}
+
+h1{
+	border: 5px solid black
+	padding:20px;
+	margin-left: 40px
+
+}
+#face{
+	margin-left: 30px
 }
